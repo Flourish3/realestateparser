@@ -1,0 +1,6 @@
+[websites]
+    list = [
+        'https://www.boplatssyd.se/lagenheter',
+        'google.com',
+        'reddit.com/r/rust',
+    ]
